@@ -21,7 +21,7 @@ Includes features like:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 ```bash
 git clone https://github.com/your-username/sleep-disorder-ml-dl.git
 cd sleep-disorder-ml-dl
