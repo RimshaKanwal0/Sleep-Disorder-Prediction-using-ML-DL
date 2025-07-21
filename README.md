@@ -1,10 +1,10 @@
-# 🛌 Sleep-Disorder-Prediction-using-ML-DL
+#  Sleep-Disorder-Prediction-using-ML-DL
 
 This project predicts **sleep disorders** (Insomnia or Sleep Apnea) using health and lifestyle data with **Machine Learning** and **Deep Learning** techniques.
 
 ---
 
-## 🔍 Key Features
+##  Key Features
 - Exploratory Data Analysis (EDA)
 - Label encoding & scaling
 - ML models: Logistic Regression, Random Forest, SVC, etc.
@@ -13,7 +13,7 @@ This project predicts **sleep disorders** (Insomnia or Sleep Apnea) using health
 
 ---
 
-## 📊 Dataset
+##  Dataset
 Includes features like:
 - Sleep Duration, Stress Level, Physical Activity
 - BMI, Heart Rate, Daily Steps
