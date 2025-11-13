@@ -30,6 +30,19 @@ Build interpretable and accurate models
 Compare multiple ML and DL algorithms
 
 ---
+#  Conclusion
+Through comprehensive EDA and model training:
+
+- We visualized strong relationships between stress, activity level, BMI, and sleep disorders.
+- Multiple machine learning models (e.g., Random Forest, Gradient Boosting, Logistic Regression) were trained and evaluated.
+- A deep learning model using Keras was also built and showed competitive performance.
+- The best models achieved high accuracy in classifying Sleep Apnea vs Insomnia cases.
+This analysis demonstrates the potential of AI-powered approaches in automating early detection of sleep disorders, which could assist healthcare professionals in preventive diagnosis and lifestyle planning.
+---
+## Accuracy Comparison of ML & DL Models
+<img width="1459" height="567" alt="image" src="https://github.com/user-attachments/assets/457837c7-d34d-470f-849b-1fad8be4c645" />
+
+---
 ##  Dataset
 Includes features like:
 - Sleep Duration, Stress Level, Physical Activity
